@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gambung</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="mengelola_produk">Mengelola Produk</string>
+    <string name="total_transaksi">Total Transaksi</string>
+    <string name="bulan_transaksi">bulan transaksi</string>
+    <string name="idr">IDR</string>
+    <string name="angka_transaksi">Angka Transaksi</string>
+    <string name="selanjutnya">Selanjutnya</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
